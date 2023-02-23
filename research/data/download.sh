@@ -19,7 +19,7 @@ cd ..
 
 # MSCOCO
 # -------------------------
-mkdir mscoco
+"""mkdir mscoco
 cd mscoco
 
 wget http://images.cocodataset.org/zips/test2017.zip
@@ -35,3 +35,4 @@ mv train2017 train/_
 rm train2017.zip
 
 cd ..
+"""
